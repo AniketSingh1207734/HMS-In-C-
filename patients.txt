@@ -1,0 +1,5 @@
+P001,John Doe,45,Male,Diabetes,Dr. Smith
+P002,Jane Smith,30,Female,Hypertension,Dr. Johnson
+P003,Emily Davis,60,Female,Asthma,Dr. Anderson
+P004,Michael Brown,50,Male,Heart Disease,Dr. Walker
+P005,Linda White,25,Female,Anxiety,Dr. Evans
