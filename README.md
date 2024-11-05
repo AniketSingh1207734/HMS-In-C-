@@ -4,3 +4,14 @@ This is a simple Hospital Management System written in C++. The program allows u
 # Requirements
 C++ compiler (such as g++ or Visual Studio)
 Text files for patients, doctors, and users data.
+# How to Run
+git clone https://github.com/your-username/hospital-management-system.git
+cd hospital-management-system
+# Prepare the Data Files
+ Create the following text files in the same directory as your project:
+
+patients.txt
+doctors.txt
+users.txt
+
+Run the Program
